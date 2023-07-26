@@ -160,8 +160,10 @@ export default function Body() {
                         </a>
                     </div>
                     <div className="bg-gray-700 rounded p-2">
+                        <a href="https://www.linkedin.com/in/m%C3%A1rcio-brener-cantuaria-santos-b08096245" target="_blank">
                         <img src={linkedin} alt="" className="w-20 h-auto md:w-40 " />
                         <h1 className="text-center">Linkedin</h1>
+                        </a>
                     </div>
             </div>
         </section>
