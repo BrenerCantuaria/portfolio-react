@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif; 
+}
+
+.title{
+  color: aliceblue;
+  text-decoration: underline  rgb(77, 238, 77) ;
+  font-size: 40px;
+}
+
+.description{
+  margin-top: 1rem;
+  font-size: 25px;
+  color:#9C9C9C;
+}
