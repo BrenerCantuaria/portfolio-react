@@ -56,7 +56,7 @@ export default function Body() {
 
         <section className="bg-gray-900  flex-col pb-40">
           <div className="text-center py-3.5">
-                <h1 class="title text-sm md:text-4xl">Essas são as tecnologias que eu utilizo</h1>
+                <h1 className="title text-sm md:text-4xl">Essas são as tecnologias que eu utilizo</h1>
           </div>
             <div className="flex flex-wrap justify-around py-20"> 
                     <div className="bg-gray-300 rounded flex-col items-center p-2 md:p-8 hover:-translate-y-1 cursor-pointer m-2  ">
