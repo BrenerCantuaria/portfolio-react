@@ -30,7 +30,7 @@ export default function Body() {
             </div>
       </section>
 
-      <section className="bg-gray-900 mb-52" id="sobremim">
+      <section className="bg-gray-900 mb-52 mt-24" id="sobremim">
             <div className="py-20 md:flex">
                 <div className=" px-20">
                     <h1 className="title text-sm md:text-4xl text-sm ">Meu nome é Márcio Brener</h1>
